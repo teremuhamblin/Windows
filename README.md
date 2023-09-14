@@ -1,4 +1,6 @@
-# Microsoft Windows: ![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
+
+# Microsoft Windows:
 - Developer microsoft, available in	110 languages
 - Source model, closed-source, source-available (through Shared Source Initiative)
 - Initial release	November 20, 1985; 
@@ -13,7 +15,7 @@
 - Windows Update
 - Microsoft Store
 - Windows Server Update Services (WSUS)
-- Package manager	Windows Installer (.msi, .msp),[7] App Installer (.msix[8], .msixbundle[9][10]), Microsoft Store (.appx, .appxbundle),[11] Windows Package Manager
+- Package manager	Windows Installer (.msi, .msp), App Installer (.msix, .msixbundle), Microsoft Store (.appx, .appxbundle), Windows Package Manager
 - Platforms	IA-32, x86-64, ARM, ARM64
 - Previously: 16-bit x86, DEC Alpha, MIPS, PowerPC, Itanium
 # Kernel type	
