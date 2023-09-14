@@ -1,4 +1,4 @@
-# Microsoft Windows:
+# Microsoft Windows: ![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
 - Developer microsoft, available in	110 languages
 - Source model, closed-source, source-available (through Shared Source Initiative)
 - Initial release	November 20, 1985; 
