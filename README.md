@@ -1,13 +1,13 @@
 # Microsoft Windows:
 - Developer microsoft, available in	110 languages
 - Source model, closed-source, source-available (through Shared Source Initiative)
-- Initial release	November 20, 1985; 37 years ago
-- Latest release	22H2 (10.0.22621.2283) (September 12, 2023; 2 days ago[1]) [±]
+- Initial release	November 20, 1985; 
+- Latest release	22H2 (10.0.22621.2283) (September 12, 2023; 
 - Latest preview	in progress
-- Release preview channel 22H2 (10.0.22621.2283) (September 12, 2023; 2 days ago[2][3]) [±]
-- Beta Channel 23H2 (10.0.22631.2338) (September 12, 2023; 2 days ago[4]) [±]
-- Dev Channel 10.0.23545.1000 (September 13, 2023; 1 day ago[5]) [±]
-- Canary Channel 10.0.25951.1000 (September 13, 2023; 1 day ago[6]) [±]
+- Release preview channel 22H2 (10.0.22621.2283) (September 12, 2023; 
+- Beta Channel 23H2 (10.0.22631.2338) (September 12, 2023; 
+- Dev Channel 10.0.23545.1000 (September 13, 2023; 
+- Canary Channel 10.0.25951.1000 (September 13, 2023;
 # Marketing target	Personal computing
 - Update method	
 - Windows Update
