@@ -8,4 +8,5 @@ The first five versions of Windows–Windows 1.0, Windows 2.0, Windows 2.1, Wind
 
 # The edition and the version of windows:
 In addition to choosing the operating system version, we will also need to choose the edition. Each edition has a subset of features for an intended market. Typically every Windows version has a Home edition, or a Home Premium. Those editions are intended for a small network in a home environment.
+So, for most home users Windows 10 Home will likely be the one to go for, while for others, Pro or even Enterprise might be best, especially as they offer the more advanced update roll-out features that will certainly benefit anyone that reinstalls Windows periodically.
 
