@@ -1,4 +1,5 @@
 # Microsoft Windows:
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
 Microsoft Windows is a computer operating system developed by Microsoft. It was first launched in 1985 as a graphical operating system built on MS-DOS. The initial version was followed by several subsequent releases, and by the early 1990s, the Windows line had split into two separate lines of releases: Windows 9x for consumers and Windows NT for businesses and enterprises. In the following years, several further variants of Windows would be released: Windows CE in 1996 for embedded systems; Pocket PC in 2000 (renamed to Windows Mobile in 2003 and Windows Phone in 2010) for personal digital assistants and, later, smartphones; Windows Holographic in 2016 for AR/VR headsets; and several other editions.
 
 # List of microsoft windows all edition:
