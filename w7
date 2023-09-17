@@ -1,0 +1,43 @@
+# Windows7 edition
+
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+
+## Get Involved
+
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+
+* [Explore featured projects](https://opensource.microsoft.com/projects/)
+* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
+* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+
+Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+
+----
+
+Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+
+Different editions
+
+Unlike Windows XP and Windows Vista which were available in six different editions, Windows 7 is only available in four editions.
+
+          Windows 7
+     Intended for the general public PC, for 32 (x86) or 64-bit (AMD64) processor, includes basic software and tools usually used by the general public (WordPad, Windows Media Player or Notepad (Windows).
+
+          Windows 7 Professional
+     Also includes the possibility of joining an Active Directory corporate network, support for file encryption and a set of additional features for use by advanced users or companies.
+
+          Windows 7 Enterprise
+     intended for very large companies. It includes all the features of Windows 8 Professional and adds the implementation of hardware encryption technology, an evolution of DirectAccess technology as well as the possibility of using a single image for a global deployment. Only companies with a Software Assurance maintenance subscription or a Microsoft Enterprise Agreement can purchase it;
+
+          Windows 7 SP1
+     intended for touch tablets with an ARM processor and including the Microsoft Office 2013 RT office suite. It is not possible to update to Windows 10.
+
+# Windows7: Microsoft edition
+
+At the beginning of August 2014, Microsoft announced the end of standard support for Windows 7 for January 13, 2015; however, the extended support remained valid until January 14, 202017. This very quickly sparked a real flow of controversy on the web from Internet users, who mainly use this support around the world18. Intel's Skylake and Kaby Lake processors were not initially supported on Windows 7 and Windows 8.1 forcing users to get Windows 1019. An update enabled support for Skylake devices on Windows 7 and Windows 8.120.
+
+For large organizations that need longer support from Microsoft, it is possible to purchase an "ESU" (Extended Security Updates) kit to extend the support period by one year, renewable 3 times. It was therefore possible to continue using Windows 7 updated until January 2023.
+
+Embedded POSReady 7, and Embedded Standard 7 have extended support as well.
+
+Support for Windows 7 ended on January 14, 2020. Since that date, Microsoft no longer offers new operating system updates or security patches for this version of Windows, but Microsoft decides to leave updates updated for its Microsoft Security Essential antivirus until 2023.
