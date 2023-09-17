@@ -1,0 +1,23 @@
+# Windows8 edition
+
+Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+
+----
+
+Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+
+## Different editions
+
+Unlike Windows Vista and Windows 7 which were available in six different editions, Windows 8 is only available in four editions.
+
+          Windows 8
+     Intended for the general public PC, for 32 (x86) or 64-bit (AMD64) processor, includes basic software and tools usually used by the general public (WordPad, Windows Media Player or Notepad (Windows).
+
+          Windows 8 Professional
+     Also includes the possibility of joining an Active Directory corporate network, support for file encryption and a set of additional features for use by advanced users or companies.
+
+          Windows 8 Enterprise
+     intended for very large companies. It includes all the features of Windows 8 Professional and adds the implementation of hardware encryption technology, an evolution of DirectAccess technology as well as the possibility of using a single image for a global deployment. Only companies with a Software Assurance maintenance subscription or a Microsoft Enterprise Agreement can purchase it;
+
+          Windows RT
+     intended for touch tablets with an ARM processor and including the Microsoft Office 2013 RT office suite. It is not possible to update to Windows 10.
